@@ -15,7 +15,7 @@ This project demonstrates how to load and analyze the Breast Cancer dataset, an 
 📈 Prints sample rows and performs basic EDA operations (e.g., head(), describe())
 
 🛠 Tech Stack
-Tool	Purpose
+
 Python 🐍	Programming Language
 NumPy 🔢	Numerical Operations
 Pandas 🐼	Data Handling & DataFrames
